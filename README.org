@@ -1,0 +1,5 @@
+* Setup
+1. Insert content of =evdev.xml= into <variantList> of ru layout at /usr/share/X11/xkb/rules/evdev.xml
+2. Insert content of =xkb_symbols_ru= to the bottom of /usr/share/X11/xkb/symbols/ru
+3. ???
+4. PROFIT!
