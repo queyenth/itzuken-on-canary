@@ -5,7 +5,7 @@ xkb_symbols "canqwe" {
     name[Group1]= "Russian (itzuken on canary)";
 
     key <AD01> { [ Cyrillic_ya,   Cyrillic_YA ] };
-    key <AD02> { [ U045D,    U040D ] };
+    key <AD02> { [ Cyrillic_shorti,    Cyrillic_SHORTI ] };
     key <AD03> { [ Cyrillic_el,    Cyrillic_EL ] };
     key <AD04> { [ Cyrillic_yeru,  Cyrillic_YERU ] };
     key <AD05> { [ Cyrillic_a,     Cyrillic_A ] };
