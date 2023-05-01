@@ -9,7 +9,7 @@ xkb_symbols "canqwe" {
     key <AD03> { [ Cyrillic_el,    Cyrillic_EL ] };
     key <AD04> { [ Cyrillic_yeru,  Cyrillic_YERU ] };
     key <AD05> { [ Cyrillic_a,     Cyrillic_A ] };
-    key <AD06> { [ Cyrillic_u,    Cyrillic_u ] };
+    key <AD06> { [ Cyrillic_u,    Cyrillic_U ] };
     key <AD07> { [ Cyrillic_shcha,     Cyrillic_SHCHA ] };
     key <AD08> { [ Cyrillic_de,    Cyrillic_DE ] };
     key <AD09> { [ Cyrillic_sha,   Cyrillic_SHA ] };
